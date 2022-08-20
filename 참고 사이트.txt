@@ -1,1 +1,139 @@
 참고한 사이트 및 자료들
+
+https://www.youtube.com/watch?v=nt00QzKuNVY
+큐브의 센터부분을 6개의 축으로 돌리는 방식이다.
+모터를 많이 사야 할 것 같고(돈이 많이 들고), 만들기도 쉽지 않아 보인다.
+다루는 것이 직관적이지 않아서, 그냥 전시해둔다면 고장이 나거나 다칠 수도 있어 보인다.
+
+https://www.youtube.com/watch?v=ymOTs6P7Pzg&t=197s
+상용 제품이다. 위에거랑 비슷한 방식이라서 패스
+
+https://www.youtube.com/watch?v=oYRXe4NyJqs
+개인이 만든 장치이다.
+이 사람이 올린 영상 더 찾아보면, 좀 더 개선이 된 것도 있다.
+이걸 참고해서 만들 생각이다.
+상자가 기울어진 형태는 다른 영상에서도 많이 보인다.
+큐브 전체를 회전시킬때, 위치를 바로 잡아주는 역할을 중력이 하게 만들기 위함인 듯 하다.
+돌리는 부분은 DC모터나 스텝모터를 사용하고, 한개만 사용할 예정이다.
+큐브 전체를 회전시키는 방향은 두가지로 해서 약간 더 속도를 개선해서 만들어 볼 계획이다.
+
+https://www.youtube.com/watch?v=Ilo92v03RLs
+바로 위에거랑 이거랑 섞어서 아래에서 큐브를 들어올리면 회전이 되게끔 만들 생각이다.
+
+https://www.youtube.com/watch?v=dEOLhvVMcUg
+이거는 위 영상에서 좀 더 개선된 버전이다.
+큐브를 회전시키고, 고정하는것을 한개의 서보모터만 사용해서 만들었기 때문에
+크기가 작고 부품이 많이 필요 없는 것이 장점이다.
+당장에는 이거보다 개선된 형태는 생각하기 힘들다.
+물론 더 빨리 맞추는 기계들은 많이 있다.
+
+https://www.youtube.com/watch?v=EueFrZ8H_rQ
+자세히 보지 않았는데, 뭔가 알고리즘 설명도 해주는 것 같다.
+
+https://www.youtube.com/watch?v=Q8BYKwbwZSM
+시작할때 큐브를 손으로 잡고 있어야 되는 것 같다.
+비슷한 방식의 영상이 많이 있다.
+
+https://www.youtube.com/watch?v=P5tbpXMmv6A
+위에거랑 비슷한 방식
+모터가 많이 필요해보인다.
+서보모터를 사용했기 때문에, 회전수 제한이 있어서 뒤로 가서 초기 상태로 다시 맞추고 돌아와야 한다.
+그리고 구조상 윗면과 오른쪽 면을 돌리는데 있어서 서보모터가 간섭이 있을 수 있어서, 서보모터가 아니어도 뒤로 가서 초기화 하고 와야 한다.
+
+https://www.youtube.com/watch?v=pC3sCpwuRd0
+https://www.youtube.com/watch?v=wLzn1w8vgM4
+https://www.youtube.com/watch?v=tNhQUrkPYJs
+https://www.youtube.com/watch?v=AHW02mVKGo0
+https://www.youtube.com/shorts/srPHiN3mUfc
+https://www.youtube.com/watch?v=bwWDBRQ5rPc
+https://www.youtube.com/watch?v=bEiQwmEe45s
+https://www.youtube.com/watch?v=ixTddQQ2Hs4
+https://www.youtube.com/watch?v=P8-n6oBeX7U
+https://www.youtube.com/watch?v=a-wJPG1wNIo
+https://www.youtube.com/shorts/VnoFqdDH86M
+https://www.youtube.com/watch?v=lIC8tyZEvjY
+센터조각을 잡고 맞추는 방식
+
+https://www.youtube.com/watch?v=o-auWQzWKxM
+센터를 잡고 맞추긴 하는데, 두개만 잡고 하는 듯 하다.
+모터는 3개 있음
+
+https://www.youtube.com/watch?v=GJKdbGAF9H0
+여러 방식이 소개 되어 있다.
+로봇 손으로 맞추는 것도 있다.
+
+https://www.youtube.com/watch?v=G8kEdBBw1aY
+https://www.youtube.com/watch?v=KHTrK1L3jRk
+https://www.youtube.com/watch?v=dDwxDF34y-0
+https://www.youtube.com/watch?v=ZHaAKOHkDEo
+https://www.youtube.com/watch?v=JZ34St8h1ZI&t=339s
+https://www.youtube.com/watch?v=8vP49r7rH3w
+https://www.youtube.com/watch?v=5qVOE5qAdgM
+https://www.youtube.com/watch?v=ThMd9YR1MAg
+https://www.youtube.com/watch?v=3c3i0LgJrCc
+https://www.youtube.com/watch?v=l9AomeR562s
+https://www.youtube.com/watch?v=U58OEMnwfc8
+https://www.youtube.com/watch?v=G8kEdBBw1aY
+https://www.youtube.com/watch?v=oOOipLj4oXw
+https://www.youtube.com/watch?v=pnV7oc2SMbc
+https://www.youtube.com/watch?v=qTq2V1aPAp8
+https://www.youtube.com/watch?v=nLNf_XI2t5I
+https://www.youtube.com/watch?v=PYuAtW2y0B0
+https://www.youtube.com/watch?v=IDn_NepA7Lc - 예전에 봤던거
+https://www.youtube.com/watch?v=staapsj3eRQ - 예전에 봤던거
+https://www.youtube.com/watch?v=5qVOE5qAdgM
+https://www.youtube.com/watch?v=OgA2BS8Vpac
+https://www.youtube.com/watch?v=E6W88HAJjF8
+https://www.youtube.com/watch?v=o9hPXDKmV7I
+https://www.youtube.com/watch?v=4oC9LkgmDWc
+https://www.youtube.com/watch?v=JZ34St8h1ZI
+https://www.youtube.com/watch?v=EycBVKaU4WQ
+위에 비슷한게 많이 있다.
+엣지 부분을 잡고 맞추는 방식.
+큐브면을 회전시키는 모터는 4개 (2개만 사용한 것도 있다.(8번째))
+
+https://www.youtube.com/watch?v=awxGJ7aVk4g
+https://www.youtube.com/watch?v=NRRSYEWIQ_w
+https://www.youtube.com/watch?v=uWkZ51yxvis
+https://www.youtube.com/watch?v=NMYqOUVZ3V4
+https://www.youtube.com/watch?v=gy5B6neyWf8
+https://www.youtube.com/watch?v=AkvZ2Agn5wY
+https://www.youtube.com/watch?v=5fAn5A0HbhU
+이것도 위에 비슷한게 많다.
+기울어진데로 돌리고, 위에서 잡아주는 방식이다.
+
+https://www.youtube.com/watch?v=aNKPMUYSvdA
+https://www.youtube.com/watch?v=eFt0z-NKuBQ
+https://www.youtube.com/watch?v=dreTvumjNyw
+https://www.youtube.com/watch?v=iDMrePmmNA0
+https://www.youtube.com/watch?v=4Z060QUFvyM
+https://www.youtube.com/watch?v=HwqosK2jewc
+https://www.youtube.com/watch?v=CPI6lTnhhnQ
+https://www.youtube.com/watch?v=JGcjqvwfL3s
+https://www.youtube.com/watch?v=z4I9Lewx_MM
+https://www.youtube.com/watch?v=gXLLrR-qlnw
+https://www.youtube.com/watch?v=sHwT_OvCzeg - 이거는 다른거에비해 약간 개선된 모델인 듯.
+https://www.youtube.com/watch?v=SBOdGG4sx4w
+https://www.youtube.com/watch?v=htnL1KTpaY8 - 약간 다르긴한데, 밀고 당긴다.
+https://www.youtube.com/watch?v=c-i935h0HK8
+https://www.youtube.com/watch?v=UduKVicA5kQ - 밀고 당기지는 않는다. 이거도 참고하면 좋을 듯.
+https://www.youtube.com/watch?v=xPux8p2i_34
+바로 위에거랑 비슷하다.
+기울어진 면으로 되돌아 오는게 아니라, 밀고 당겨서 큐브의 위치를 유지한다.
+두번째 영상이 원리를 알아보기 쉬운 구조이다.
+
+https://www.youtube.com/watch?v=H8SNoDKHWy0
+555 맞추는 로봇.
+
+https://www.youtube.com/watch?v=HUX6hkGFJTM
+https://www.youtube.com/watch?v=052JJGBxFH0
+444 맞추는 로봇.
+
+https://www.youtube.com/watch?v=7Tx0p5Vo24s
+센터조각으로 돌리기도 하고 엣지를 잡고 돌리기도 한다.
+
+https://www.youtube.com/watch?v=-6SCJ3tkD7s
+기본적으로 면을 돌리는 부분은 한개다.
+
+https://www.youtube.com/watch?v=gQrGTlEsytU
+로봇팔을 이용해서 맞춘다.
