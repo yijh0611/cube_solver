@@ -1,9 +1,9 @@
-1. 서보모터 4개 ($14.24)
-2. 스텝모터/DC모터 1개 - nema17  ($7.13)
-3. 아두이노 나노 1개 - 우노가 더 싸면 우노로 구매 (PWM핀이 최소 4개 있으면 된다.) - 라즈베리파이는 두개만 가능 ($)
-4. 라즈베리파이4 ($56.73)
-5. 모터드라이버(스텝모터 전용 드라이버가 있는 듯 하다) 2개 - a4988(이거는 1A까지만 되는 듯), DRV8825 (1.5A 까지 되는 듯) ($3.51)
+1. 서보모터 4개 ($14.24)(https://ko.aliexpress.com/item/1005003093737362.html?gatewayAdapt=glo2kor)
+2. 스텝모터/DC모터 1개 - nema17  ($7.13)(https://ko.aliexpress.com/item/4001030722318.html?gatewayAdapt=glo2kor)
+3. 아두이노 나노 1개 - 우노가 더 싸면 우노로 구매 (PWM핀이 최소 4개 있으면 된다.)(우노 가격은 안알아봤음) - 라즈베리파이는 두개만 가능 ($2.43)(https://ko.aliexpress.com/item/1005004194405375.html?gatewayAdapt=glo2kor)
+4. 라즈베리파이4 ($56.73 - 보류)
+5. 모터드라이버(스텝모터 전용 드라이버가 있는 듯 하다) 2개 - a4988(이거는 1A까지만 되는 듯), DRV8825 (1.5A 까지 되는 듯) ($3.51)(https://ko.aliexpress.com/item/32597532420.html?gatewayAdapt=glo2kor)
 https://www.youtube.com/watch?v=7spK_BkMJys
 
-6. 카메라 ($)
+6. 카메라 (14.94) (https://ko.aliexpress.com/item/1005001898940461.html?gatewayAdapt=glo2kor)
 7. 파워서플라이 (보류)
